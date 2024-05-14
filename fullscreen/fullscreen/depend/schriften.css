@@ -1,0 +1,44 @@
+
+@font-face {
+    font-family: 'bregular';
+    src: url('balooregular.woff2') format('woff2'),
+         url('balooregular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'bmedium';
+    src: url('baloomedium.woff2') format('woff2'),
+         url('baloomedium.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'bbold';
+    src: url('baloobold.woff2') format('woff2'),
+         url('baloobold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'bblack';
+    src: url('balooblack.woff2') format('woff2'),
+         url('balooblack.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
+
+
+
+
+
+
+
+
+
